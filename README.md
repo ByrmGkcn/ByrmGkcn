@@ -1,6 +1,6 @@
 # Portfolio Gökçen Bayram
 
-Bienvenue sur mon portfolio GitHub ! Je suis Gökçen Bayram, étudiant en informatique à l'IUT du Limousin. Passionné par l'informatique et les nouvelles technologies, je suis en quête d'excellence dans mes études et mes projets.
+Bienvenue sur mon Portfolio ! Je suis Gökçen Bayram, étudiant en informatique à l'IUT du Limousin. Passionné par l'informatique et les nouvelles technologies, je suis en quête d'excellence dans mes études et mes projets.
 
 ## Sommaire
 1. [Qui suis-je ?](#qui-suis-je)
@@ -28,7 +28,14 @@ Bienvenue sur mon portfolio GitHub ! Je suis Gökçen Bayram, étudiant en infor
 
 ## Qui suis-je ?
 ### Parcours académique
-Depuis mon enfance, l'informatique et les sciences m'ont captivé. Actuellement en cursus informatique à l'IUT du Limousin, j'ai développé des compétences solides en sciences, programmation, réseaux et gestion de projet.
+Depuis mon enfance, l'informatique et les sciences en général m'ont toujours captivé. C'est pourquoi j'ai décidé de suivre un cursus très scientifique au lycée, puis de me diriger, après, dans une filière informatique à l'IUT du Limousin.
+
+La curiosité que j'ai pour les sciences m'a permis d'acquérir de très solides bases dans les matières scientifiques. J'ai donc de grandes facilités, ce qui me pousse à viser toujours plus grand. En effet, j'ai toujours obtenu d'excellents résultats, notamment durant mon lycée, comme en Physique-Chimie et Mathématiques qui étaient mes enseignements de spécialité durant mon année de Terminale. 
+
+Mais aussi, durant mes années de BUT, j’ai eu l’occasion d’apprendre, de pratiquer et de perfectionner certaines compétences et connaissances, notamment en développement mais aussi dans le domaine des réseaux et en gestion de bases de données.
+
+
+, j'ai développé des compétences solides en sciences, programmation, réseaux et gestion de projet.
 
 ### Passions et valeurs
 Mes années d'études m'ont permis de développer des valeurs telles que le partage, la tolérance et le respect. J'ai appris à communiquer avec diverses personnes, trouvant le juste équilibre entre amitié et camaraderie.
