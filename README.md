@@ -54,7 +54,7 @@ me motive quand même plus.
 
 ## Mes Compétences
 
-## Programmation
+## UE n°1. Réaliser un développement d’application ET UE n°2. Optimiser des applications informatiques
 
 #### Programmation procédurale avec des langages tels que ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) et le langage 🅒.
 
@@ -69,7 +69,7 @@ Nous avons réalisé avec un camarade, dans le cadre d'un projet scolaire, une a
 
 #### Bases de la programmation web avec ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black), et utilisation de frameworks tels que <a href="https://github.com/ByrmGkcn/Symfony" style="color: pink;">Symfony</a> et <a href="https://github.com/ByrmGkcn/AFB" style="color: pink;">Laravel</a>.
 
-## Utilisation des données
+## UE n°3. Gérer des données de l’information
 
 Dans le contexte du Big Data, il est important de savoir gérer des données, j'ai alors acquis la capacité de collecter, d'analyser et d'interpréter des données. Mes compétences incluent :
 - Utilisation du langage <a href="https://github.com/ByrmGkcn/BDDBUT1" style="color: pink;">MySQL</a> avec le système SQLServer. 
@@ -77,7 +77,7 @@ Dans le contexte du Big Data, il est important de savoir gérer des données, j'
 
 En 3ème année, nous avons appris l'existence du NoSQL, nous avons alors complétement changé notre façon de penser les bases de données, tout ce que nous avons réalisé auparavant fonctionne mais n'est parfois pas le plus adéquat, la façon de schématiser les bases de données peut donc être à revoir.
 
-## Réseaux et Infrastructures
+## UE n°4. Administrer des systèmes informatiques communicants
 
 Mon expertise s'étend aux réseaux et à la sécurité, où j'ai appris à :
 - Concevoir, administrer et sécuriser des architectures réseau.
@@ -87,7 +87,7 @@ Mon expertise s'étend aux réseaux et à la sécurité, où j'ai appris à :
 Comme mes autres compétences techniques, celle-ci aussi a évolué durant mon BUT. En effet, je nous pouvais, en 1ère année de BUT, que réaliser un réseau de machines simple, qui permette à certains groupes de discuter entre eux : <a href="https://github.com/ByrmGkcn/ReseauxBUT1" style="color: pink;">Projet de réseaux 1ère année </a>.
 Puis, en 2ème et 3ème année, nous sommes allé beaucoup plus loin, avec notamment des serveurs DHCP, de la sécurisation et des connexions SSH à distance : <a href="https://github.com/ByrmGkcn/ReseauxBUT2" style="color: pink;">Projet de réseaux 2ème année</a>.
 
-## Administration Système
+## UE n°5. Usages des outils numériques
 
 Je suis compétent dans l'utilisation de différents systèmes d'exploitation, dont Windows, Linux et MacOS. Mes compétences en administration système comprennent :
 - Maîtrise des langages systèmes tels que le bash pour Linux et l'invite de commande cmd pour Windows. <a href="https://github.com/ByrmGkcn/SystemesBUT1" style="color: pink;">Administration Systèmes en 1ère annnée</a>
@@ -98,7 +98,7 @@ J'ai durant 3 années utilisé ces différents outils de plus en plus, que ce so
 
 J'ai alors appris à utiliser le virtualisation durant ma 1ère année de BUT, puis la conteneurisation durant ma 2ème année.
 
-## Gestion de Projet
+## UE n°6. Conduire un projet
 
 La gestion de projet, effectuée sous la méthodologie agile, a été une partie intégrante de mon parcours. J'ai acquis des compétences telles que :
 - Utilisation de la méthodologie agile, mettant l'accent sur la communication avec des réunions hebdomadaires et la séparation du travail en étapes.
