@@ -1,85 +1,139 @@
 # Portfolio Gökçen Bayram
 
-Bienvenue sur mon Portfolio ! Je suis Gökçen Bayram, étudiant en informatique à l'IUT du Limousin. Passionné par l'informatique et les nouvelles technologies, je suis en quête d'excellence dans mes études et mes projets.
+Bienvenue sur mon Portfolio ! Je suis GOKCEN Bayram, étudiant en BUT informatique à l'IUT du Limousin. Passionné par l'informatique et les nouvelles technologies, je souhaite travailler plus tard dans les systèmes d'informations jusqu'à devenir Architecte des Systèmes d’Information.
 
 ## Sommaire
-1. [Qui suis-je ?](#qui-suis-je)
-    - [Parcours académique](#parcours-académique)
-    - [Passions et valeurs](#passions-et-valeurs)
+1. <a style="color: white;" href="#qui-suis-je">Qui suis-je ?</a>
 
-2. [Mon projet personnel et mes objectifs professionnels](#mon-projet-personnel-et-mes-objectifs-professionnels)
-    - [Objectifs académiques](#objectifs-académiques)
-    - [Objectifs professionnels](#objectifs-professionnels)
+2. <a style="color: white;" href="#mon-projet-personnel-et-mes-objectifs-professionnels">Mon projet personnel et mes objectifs professionnels</a>
 
-3. [Mes compétences](#mes-compétences)
-    - [Programmation](#programmation)
-    - [Utilisation des données](#utilisation-des-données)
-    - [Réseaux et infrastructures](#réseaux-et-infrastructures)
-    - [Administration système](#administration-système)
-    - [Gestion de projet](#gestion-de-projet)
-    - [Compétences transversales](#compétences-transversales)
+3. <a style="color: white;" href="#mes-compétences">Mes compétences</a>
 
-4. [Mes expériences](#mes-expériences)
-    - [Stage 1 - Océathys (5ème)](#stage-1---océathys-5ème)
-    - [Stage 2 - Pôle Enfance Aubusson (3ème)](#stage-2---pôle-enfance-aubusson-3ème)
-    - [Stage 3 - DRUG-SPORTS (2nde)](#stage-3---drug-sports-2nde)
+4. <a style="color: white;" href="#mes-expériences">Mes expériences</a>
 
-5. [Comment me contacter ?](#comment-me-contacter)
+5. <a style="color: white;" href="#comment-me-contacter">Comment me contacter ?</a>
+
 
 ## Qui suis-je ?
 ### Parcours académique
 Depuis mon enfance, l'informatique et les sciences en général m'ont toujours captivé. C'est pourquoi j'ai décidé de suivre un cursus très scientifique au lycée, puis de me diriger, après, dans une filière informatique à l'IUT du Limousin.
+La curiosité que j'ai pour les sciences m'a permis d'acquérir de très solides bases dans les matières scientifiques. J'ai donc de grandes facilités dans ce domaine, ce qui me pousse à viser toujours plus haut. 
 
-La curiosité que j'ai pour les sciences m'a permis d'acquérir de très solides bases dans les matières scientifiques. J'ai donc de grandes facilités, ce qui me pousse à viser toujours plus grand. En effet, j'ai toujours obtenu d'excellents résultats, notamment durant mon lycée, comme en Physique-Chimie et Mathématiques qui étaient mes enseignements de spécialité durant mon année de Terminale. 
+En effet, j'ai toujours obtenu d'excellents résultats, notamment durant mon lycée, en **Physique-Chimie** et en **Mathématiques** qui étaient mes enseignements de spécialité. J'ai alors obtenu mon **Baccalauréat** avec mention **Très Bien**. 
 
-Mais aussi, durant mes années de BUT, j’ai eu l’occasion d’apprendre, de pratiquer et de perfectionner certaines compétences et connaissances, notamment en développement mais aussi dans le domaine des réseaux et en gestion de bases de données.
-
-
-, j'ai développé des compétences solides en sciences, programmation, réseaux et gestion de projet.
+Mais aussi, durant mes années de BUT, j’ai eu l’occasion d’apprendre, de pratiquer et de perfectionner certaines compétences et connaissances, notamment en développement (web et programme) mais aussi dans le domaine des réseaux et en gestion de bases de données.
+Chaque projet est, pour moi, une opportunité pour mettre en avant ma démarche de résolution de problèmes, mon autonomie ainsi que mon esprit d'équipe.
 
 ### Passions et valeurs
-Mes années d'études m'ont permis de développer des valeurs telles que le partage, la tolérance et le respect. J'ai appris à communiquer avec diverses personnes, trouvant le juste équilibre entre amitié et camaraderie.
+En parallèle, je suis un sportif dévoué, en effet, cela fait 8 ans que je pratique le basketball en club et 3 ans que je suis entraineur d'une équipe d'adolescents.
+Cet hobby m'a permis de développer des valeurs telles que le partage, la tolérance et le respect. J'ai appris à communiquer avec diverses personnes, trouvant le juste équilibre entre camaraderie et professionalisme.
+
+En effet, je pense que pratiquer un sport d'équipe est un des meilleurs moyens pour apprendre à travailler en équipe et ce même sur le plan professionel. Dans une équipe de travail, comme dans une équipe de sport, les ressemblances sont nombreuses et il est important de mettre la communication au centre des projets.
 
 ## Mon projet personnel et mes objectifs professionnels
-### Objectifs académiques
-Je vise à terminer mon BUT Informatique en deux ans pour me spécialiser dans l'administration des systèmes d'information, le développement d'applications, la gestion des données, et la conduite de projets.
+Je souhaite, dans un premier temps, terminer mon BUT Informatique afin d'avoir des connaissances et compétences dans l'informatique en général. Cela me permettra d'être polyvalent et d'avoir des bases solides dans différents domaines comme l’administration des systèmes d’information, le développement d’application, la gestion des données ou même le travail d’équipe, l'économie et la conduite d’un projet.
 
-### Objectifs professionnels
-Mon ambition est d'intégrer une école d'ingénieur spécialisée dans les Systèmes d’Information, puis de devenir Architecte de Systèmes et Informations. Je souhaite jouer un rôle clé au sein d'une entreprise et occuper une place importante.
+Puis dans un second temps, j'aimerais intégrer une école d'ingénieur spécialisée dans le numérique ou les Systèmes d’Information, il s'agit d'un domaine qui me plaît. Cette formation me permettrait d’emmagasiner des connaissances dans l’analyse et la gestion de problèmes informatiques, en parallèle, de me fonder une expérience professionnelle grâce à une alternance. 
+Je pourrais à la suite de l’école d’ingénieur, me spécialiser dans la gestion en pratiquant différents métiers comme Administrateur Réseaux ou Ingénieur technico-commercial, ce sont des métiers que j’aimerais exercer et auxquels
+je m’intéresse depuis longtemps.
 
-## Mes compétences
-### Programmation
-Maîtrise des langages tels que Python, C, Java, C#, HTML, CSS, JavaScript, Symfony, React. Compétences en programmation procédurale et orientée objet, ainsi que dans le développement web.
+Finalement, ces formations me permettraient de réaliser le métier
+que je vise, celui d'Architecte Systèmes et Informations. En
+effet il s’agit de mon objectif professionnel, il s’agit d’un métier qui
+demande des connaissances et de l’expérience dans son domaine et
+qui n’est donc pas simple à exercer. Néanmoins le fait que ce soit
+difficile d’arriver à ce métier, me pousse à rester toujours motivé
+pour atteindre cet objectif.
 
-### Utilisation des données
-Expérience approfondie avec MySQL et SQLServer pour l'analyse et l'interprétation des données. Capacité à créer des visualisations significatives.
+Personnellement, j’aimerais avoir, plus tard, une place importante au sein d’une entreprise.
+Même si cela peut demander du travail en plus et de nombreuses
+responsabilités, il s’agit d’une réelle source de motivation. En effet,
+travailler pour gagner de l’argent est une source de motivation,
+certes, mais aimer ce que l’on fait et avoir une place importante
+me motive quand même plus.
 
-### Réseaux et infrastructures
-Conception, administration et sécurisation d'architectures réseau. Utilisation de Kathara pour la virtualisation de machines et mise en place de mesures de sécurité avec iptables.
+## Mes Compétences
 
-### Administration système
-Maîtrise de différents systèmes d'exploitation (Windows, Linux, MacOS). Utilisation de bash pour Linux et de l'invite de commande cmd pour Windows. Expérience en virtualisation et conteneurisation avec VirtualBox et Docker.
+## Programmation
 
-### Gestion de projet
-Pratique de la méthodologie agile et de l'ITIL pour une gestion efficace des projets. Aptitude à communiquer avec des réunions hebdomadaires et à diviser le travail en étapes.
+#### Programmation procédurale avec des langages tels que ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) et le langage 🅒.
 
-### Compétences transversales
-Engagement en tant qu'entraîneur de basketball pour une équipe de jeunes U15, développant des compétences de leadership et de communication. Pratique régulière du basketball depuis 8 ans, renforçant la confiance, le travail d'équipe et la responsabilité.
+J'ai alors eu l'occasion de réaliser, en Premirèe année de BUT, plusieurs programmes basiques en Python tels que des programmes de tri (tri à bulles, tri en place) ou les listes chainées, une application d'arcade qui permettent de jouer à différents mini-jeux : <a href="https://github.com/ByrmGkcn/TravauxPythonBUT1" style="color: pink;">Arcade de jeux</a> et un <a href="https://github.com/ByrmGkcn/Puissance4Python" style="color: pink;">Puissance 4</a>. Ces programmes sont basiques et un rapide coup d'oeil me permet de voir qu'ils ne sont pas très propres.
+
+En effet, je peux rapidement remarquer que j'ai progressé en Python grâce aux projets que j'ai réalisé en 3ème année de BUT. Je peux prendre l'exemple d'un programme qui utilise la méthode de Von Neumann pour estimer différentes valeurs. Ce programme, plus compliqué et beaucoup plus propre, m'a permis d'obtenir une approximation de π ou même de calculer la surface du lac de Vassivière avec seulement une image du lac : <a href="https://github.com/ByrmGkcn/TravauxPythonBUT3" style="color: pink;">Programme de Von Neumann</a>.
+
+#### Programmation orientée objet avec des langages tels que Java ☕️ et C#🔵.
+
+Nous avons réalisé avec un camarade, dans le cadre d'un projet scolaire, une application du jeu <a href="https://github.com/ByrmGkcn/LaticeBUT1" style="color: pink;">"Latice"</a>
+ sur ordinateur. Nous avons alors analysé, puis programmer et tester le jeu pour obtenir une version finale jouable.
+
+#### Bases de la programmation web avec ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black), et utilisation de frameworks tels que <a href="https://github.com/ByrmGkcn/Symfony" style="color: pink;">Symfony</a> et <a href="https://github.com/ByrmGkcn/AFB" style="color: pink;">Laravel</a>.
+
+## Utilisation des données
+
+Dans le contexte du Big Data, il est important de savoir gérer des données, j'ai alors acquis la capacité de collecter, d'analyser et d'interpréter des données. Mes compétences incluent :
+- Utilisation du langage <a href="https://github.com/ByrmGkcn/BDDBUT1" style="color: pink;">MySQL</a> avec le système SQLServer. 
+- Analyse de données, création de graphiques et interprétation des résultats.
+
+En 3ème année, nous avons appris l'existence du NoSQL, nous avons alors complétement changé notre façon de penser les bases de données, tout ce que nous avons réalisé auparavant fonctionne mais n'est parfois pas le plus adéquat, la façon de schématiser les bases de données peut donc être à revoir.
+
+## Réseaux et Infrastructures
+
+Mon expertise s'étend aux réseaux et à la sécurité, où j'ai appris à :
+- Concevoir, administrer et sécuriser des architectures réseau.
+- Utiliser des outils tels que Kathara pour la virtualisation des machines et la liaison avec des routeurs.
+- Maîtriser les commandes de filtrage (iptables) pour renforcer la sécurité des réseaux.
+
+Comme mes autres compétences techniques, celle-ci aussi a évolué durant mon BUT. En effet, je nous pouvais, en 1ère année de BUT, que réaliser un réseau de machines simple, qui permette à certains groupes de discuter entre eux : <a href="https://github.com/ByrmGkcn/ReseauxBUT1" style="color: pink;">Projet de réseaux 1ère année </a>.
+Puis, en 2ème et 3ème année, nous sommes allé beaucoup plus loin, avec notamment des serveurs DHCP, de la sécurisation et des connexions SSH à distance : <a href="https://github.com/ByrmGkcn/ReseauxBUT2" style="color: pink;">Projet de réseaux 2ème année</a>.
+
+## Administration Système
+
+Je suis compétent dans l'utilisation de différents systèmes d'exploitation, dont Windows, Linux et MacOS. Mes compétences en administration système comprennent :
+- Maîtrise des langages systèmes tels que le bash pour Linux et l'invite de commande cmd pour Windows. <a href="https://github.com/ByrmGkcn/SystemesBUT1" style="color: pink;">Administration Systèmes en 1ère annnée</a>
+
+J'ai durant 3 années utilisé ces différents outils de plus en plus, que ce soit le système d'exploitation Linux ou même le bash, jusqu'à ce qu'aujourd'hui cela me paraisse simple et logique d'utiliser ces outils.
+
+- Expérience en virtualisation et conteneurisation avec VirtualBox et Docker.
+
+J'ai alors appris à utiliser le virtualisation durant ma 1ère année de BUT, puis la conteneurisation durant ma 2ème année.
+
+## Gestion de Projet
+
+La gestion de projet, effectuée sous la méthodologie agile, a été une partie intégrante de mon parcours. J'ai acquis des compétences telles que :
+- Utilisation de la méthodologie agile, mettant l'accent sur la communication avec des réunions hebdomadaires et la séparation du travail en étapes.
+- Connaissance de l'ITIL, un référentiel de bonnes pratiques en gestion de services informatiques.
+
+## Compétences Transversales
+
+Outre mes compétences techniques, mes expériences en coaching d'une équipe de basketball U15 ont renforcé des compétences transversales essentielles :
+- Leadership et gestion d'équipe.
+- Capacité à motiver et à corriger de manière constructive.
+- Développement de relations solides, élément clé de la dynamique d'équipe.
+
+La pratique du basketball pendant huit ans a également contribué à mon développement personnel et professionnel, renforçant des valeurs telles que la confiance, la collaboration et la responsabilité au sein d'une équipe de travail.
+
 
 ## Mes expériences
-### Stage 1 - Océathys (5ème)
-Mon premier stage dans le domaine informatique m'a permis de découvrir la vente d'objets technologiques. J'ai appris à travailler en équipe, à créer une affiche collective, et à interagir avec les clients.
 
-### Stage 2 - Pôle Enfance Aubusson (3ème)
-Le deuxième stage a porté sur la vente d'objets sportifs, me donnant une vision différente de l'utilisation des technologies dans un contexte sportif. J'ai compris l'importance des nouvelles technologies dans la gestion des stocks et des opérations.
+### Stage de 2 semaines - Pôle Enfance, Aubusson
+Le premier stage important que j'ai réalisé était un stage en tant qu'informaticien à Pôle Enfance.
+J'avais alors pour objectif de gérer les machines de la structure, vérifier qu'elles fonctionnent bien et réparer toutes les machines signalées comme défaillante.
+En parallèle, j'ai commencé à créer un système de gestion des retours utilisateurs, le but était de récolter tous les retours des utilisateurs dans une seule base de données pour prendre les décisions adéquates et faire les changements nécessaires (en fonction de ce que pensent les utilisateurs).
 
-### Stage 3 - DRUG-SPORTS (2nde)
-Mon dernier stage m'a exposé à la réalité du monde professionnel. Bien que court, il a renforcé ma capacité à communiquer avec les collègues et les clients, une compétence cruciale pour un adolescent.
+### Stage de 10 semaines - Université des Mascareignes, Maurice
+L'expérience la plus enrichissante que j'ai pu réalisé est un stage de 10 semaines à l'Universite des Mascareignes. Mon objectif était d'informatiser les outils d'une ONG qui lutte contre le diabète : Diase.
+
+J'ai alors eu l'occasion de travailler sur la communication, notamment grâce à un site web présentatif. Ce site a été réalisé dans le but de satisfaire les besoisn de Madame Baloo qui est la dirigeante de l'ONG. J'ai alors compris de façon profonde ce que voulait l'organisation. Cela m'a permis de comprendre quel design utiliser, en fonction de la sémantique, par exemple les couleurs utilisées sont le bleu qui représente la maladie du diabète et l'orange qui représente les ONGs. 
+
+De plus, l'ONG souhaitait avoir un site web autonome qui ne leur demande donc pas d'efforts pour le gérer. J'ai donc permis, au site de récupérer les photos et les publications du Facebook de l'ONG pour qu'il soit complétement autonome. En effet, il suffit à l'organisation de s'occuper du Facebook et le site s'alimente tout seul.
+
+Finalement, j'ai aussi commencé un projet de site local qui permet aux infirmiers de l'ONG de récupérer les données des patients et de les sauvegarder. De cette façon, les patients sont suivis et un patient qui s'est déjà fait tester n'a pas les mêmes soins qu'un patient qui vient pour la première fois.
 
 ## Comment me contacter ?
-- **E-mail universitaire**: [bayram.gokcen@etu.unilim.fr](mailto:bayram.gokcen@etu.unilim.fr)
-- **E-mail personnel**: [bayramgokcen23@live.fr](mailto:bayramgokcen23@live.fr)
-- **Téléphone**: +33 6 38 48 25 10
-- **Adresse postale**: 12a rue Roseleur, 23200 Aubusson
+- **E-mail universitaire** : [bayram.gokcen@etu.unilim.fr](mailto:bayram.gokcen@etu.unilim.fr)
+- **E-mail personnel** : [bayramgokcen23@live.fr](mailto:bayramgokcen23@live.fr)
+- **Téléphone** : +33 6 38 48 25 10
+- **Adresse postale** : 12A rue Roseleur, 23200 Aubusson
 
-N'hésitez pas à explorer mes projets et contributions sur ce repository GitHub. Merci de votre visite !
+N'hésitez pas à explorer mes projets et contributions sur ce GitHub. Merci de votre visite !
