@@ -140,6 +140,11 @@ J'avais alors pour objectif de gérer les machines de la structure, vérifier qu
 En parallèle, j'ai commencé à créer un système de gestion des retours utilisateurs, le but était de récolter tous les retours des utilisateurs dans une seule base de données pour prendre les décisions adéquates et faire les changements nécessaires (en fonction de ce que pensent les utilisateurs).
 
 ### Stage de 10 semaines - Université des Mascareignes, Maurice
+
+<p align="center">
+<img src="https://github.com/ByrmGkcn/ByrmGkcn/assets/102605960/6733f9a2-9010-4fc9-ab3c-e0bf443df6a8" alt="image" width="300">
+</p>
+
 L'expérience la plus enrichissante que j'ai pu réalisé est un stage de 10 semaines à l'Universite des Mascareignes. Mon objectif était d'informatiser les outils d'une ONG qui lutte contre le diabète : Diase.
 
 J'ai alors eu l'occasion de travailler sur la communication, notamment grâce à un site web présentatif. Ce site a été réalisé dans le but de satisfaire les besoisn de Madame Baloo qui est la dirigeante de l'ONG. J'ai alors compris de façon profonde ce que voulait l'organisation. Cela m'a permis de comprendre quel design utiliser, en fonction de la sémantique, par exemple les couleurs utilisées sont le bleu qui représente la maladie du diabète et l'orange qui représente les ONGs. 
