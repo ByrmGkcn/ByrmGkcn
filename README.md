@@ -98,7 +98,7 @@ Mon expertise s'étend aux réseaux et à la sécurité, où j'ai appris à :
 Comme mes autres compétences techniques, celle-ci aussi a évolué durant mon BUT. En effet, je nous pouvais, en 1ère année de BUT, que réaliser un réseau de machines simple, qui permette à certains groupes de discuter entre eux : <a href="https://github.com/ByrmGkcn/ReseauxBUT1" style="color: pink;">Projet de réseaux 1ère année </a>.
 Puis, en 2ème et 3ème année, nous sommes allé beaucoup plus loin, avec notamment des serveurs DHCP, de la sécurisation et des connexions SSH à distance : <a href="https://github.com/ByrmGkcn/ReseauxBUT2" style="color: pink;">Projet de réseaux 2ème année</a>.
 
-<img src="https://github.com/ByrmGkcn/ByrmGkcn/assets/102605960/5355f6e2-239c-40ad-afba-d9b9cc041e1b" alt="image" width="200">
+<img src="https://github.com/ByrmGkcn/ByrmGkcn/assets/102605960/5355f6e2-239c-40ad-afba-d9b9cc041e1b" alt="image" width="500">
 
 ## UE n°5. Usages des outils numériques
 
