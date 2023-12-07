@@ -68,7 +68,7 @@ En effet, je peux rapidement remarquer que j'ai progressé en Python grâce aux 
 Nous avons réalisé avec un camarade, dans le cadre d'un projet scolaire, une application du jeu <a href="https://github.com/ByrmGkcn/LaticeBUT1" style="color: pink;">"Latice"</a>
  sur ordinateur. Nous avons alors analysé, puis programmer et tester le jeu pour obtenir une version finale jouable.
 
- Finalement, nous avons réalisé, avec un groupe de 4 étudiants, un jeu en VR qui permet de présenter l'IUT aux journées portes ouvertes ! <a href="https://github.com/Nyotora/escapegamevr" style="color: pink;">BUT Explorer</a>
+ Finalement, nous avons réalisé, avec un groupe de 4 étudiants, un jeu en VR qui permet de présenter l'IUT aux journées portes ouvertes : <a href="https://github.com/Nyotora/escapegamevr" style="color: pink;">BUT Explorer</a> !
 
 #### Bases de la programmation web avec ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black), et utilisation de frameworks tels que <a href="https://github.com/ByrmGkcn/Symfony" style="color: pink;">Symfony</a> et <a href="https://github.com/ByrmGkcn/AFB" style="color: pink;">Laravel</a>.
 
