@@ -61,7 +61,7 @@ me motive quand même plus.
 
 J'ai alors eu l'occasion de réaliser, en Premirèe année de BUT, plusieurs programmes basiques en Python tels que des programmes de tri (tri à bulles, tri en place) ou les listes chainées, une application d'arcade qui permettent de jouer à différents mini-jeux : <a href="https://github.com/ByrmGkcn/TravauxPythonBUT1" style="color: pink;">Arcade de jeux</a> et un <a href="https://github.com/ByrmGkcn/Puissance4Python" style="color: pink;">Puissance 4</a>. Ces programmes sont basiques et un rapide coup d'oeil me permet de voir qu'ils ne sont pas très propres.
 
-![image](https://github.com/ByrmGkcn/ByrmGkcn/assets/102605960/05ae93d2-0e04-4a3a-97e7-9285baaf8634)
+<img src="https://github.com/ByrmGkcn/ByrmGkcn/assets/102605960/05ae93d2-0e04-4a3a-97e7-9285baaf8634" alt="image" width="200">
 
 En effet, je peux rapidement remarquer que j'ai progressé en Python grâce aux projets que j'ai réalisé en 3ème année de BUT. Je peux prendre l'exemple d'un programme qui utilise la méthode de Von Neumann pour estimer différentes valeurs. Ce programme, plus compliqué et beaucoup plus propre, m'a permis d'obtenir une approximation de π ou même de calculer la surface du lac de Vassivière avec seulement une image du lac : <a href="https://github.com/ByrmGkcn/TravauxPythonBUT3" style="color: pink;">Programme de Von Neumann</a>.
 
