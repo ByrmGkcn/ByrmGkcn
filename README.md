@@ -3,15 +3,16 @@
 Bienvenue sur mon Portfolio ! Je suis GOKCEN Bayram, étudiant en BUT informatique à l'IUT du Limousin. Passionné par l'informatique et les nouvelles technologies, je souhaite travailler plus tard dans les systèmes d'informations jusqu'à devenir Architecte des Systèmes d’Information.
 
 ## Sommaire
-1. <a style="color: white !important; text-decoration: none;" href="#qui-suis-je">Qui suis-je ?</a>
+1. <a href="#qui-suis-je"><span style="color: white !important; text-decoration: none;">Qui suis-je ?</span></a>
 
-2. <a style="color: white !important; text-decoration: none;" href="#mon-projet-personnel-et-mes-objectifs-professionnels">Mon projet personnel et mes objectifs professionnels</a>
+2. <a href="#mon-projet-personnel-et-mes-objectifs-professionnels"><span style="color: white !important; text-decoration: none;">Mon projet personnel et mes objectifs professionnels</span></a>
 
-3. <a style="color: white !important; text-decoration: none;" href="#mes-compétences">Mes compétences</a>
+3. <a href="#mes-compétences"><span style="color: white !important; text-decoration: none;">Mes compétences</span></a>
 
-4. <a style="color: white !important; text-decoration: none;" href="#mes-expériences">Mes expériences</a>
+4. <a href="#mes-expériences"><span style="color: white !important; text-decoration: none;">Mes expériences</span></a>
 
-5. <a style="color: white !important; text-decoration: none;" href="#comment-me-contacter">Comment me contacter ?</a>
+5. <a href="#comment-me-contacter"><span style="color: white !important; text-decoration: none;">Comment me contacter ?</span></a>
+
 
 
 ## Qui suis-je ?
